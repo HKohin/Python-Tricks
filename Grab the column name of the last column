@@ -1,0 +1,2 @@
+cols = df.columns
+cols[len(cols)-1]
